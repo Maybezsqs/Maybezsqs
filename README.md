@@ -15,9 +15,10 @@
   
   <!-- 活动图 -->
   <div style="margin-top: 20px;">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Maybezsqs&theme=react-dark&bg_color=0d1117&color=58a6ff&line=38bdae&point=ffffff&area=true&hide_border=true" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Maybezsqs&theme=react-dark&bg_color=0d1117&color=58a6ff&line=a855f7&point=ffffff&area=true&hide_border=true" />
   </div>
 </div>
+
 
 
 <!--
