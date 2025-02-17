@@ -13,8 +13,8 @@
   </table>
 </div>
 
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=Maybezsqs&theme=xcode" /> </div>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Maybezsqs&theme=dracula)](https://github.com/Maybezsqs/github-readme-activity-graph)
 
 <!--
 
